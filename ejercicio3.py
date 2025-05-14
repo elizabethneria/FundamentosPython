@@ -15,4 +15,4 @@ cateto2 = int(input ('Ingresar valor de Cateto 2: '))
 
 hipotenusa = math.sqrt(cateto1 ** 2 + cateto2 ** 2)
 
-print("La hipotenusa del triangulo es:" + str(hipotenusa))ejercicio
+print("La hipotenusa del triangulo es:" + str(hipotenusa))
