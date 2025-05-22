@@ -5,7 +5,6 @@
 numero1 = int(input("ingresa un numero: "))
 numero2 = int(input("ingresa un numero: "))
 
-if numero1 < numero2:
+if numero1 > numero2:
     print("El priemer nuemero es mayor")
 
-    
